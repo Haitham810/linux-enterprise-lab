@@ -1,6 +1,7 @@
 # Distopia Network — Linux Enterprise Server Infrastructure
 
 A fully functional enterprise-grade server environment built on Rocky Linux (server) and Ubuntu (client), configured from scratch as part of a Systems & Network Administration project.
+📄 **Full lab write-up:** [DNS and Secure Email Server Lab](docs/DNS_EMAIL_LAB.md) — the complete step-by-step build log with configuration screenshots for Chapters 1–2 (BIND DNS and Postfix/Dovecot email).
 
 ## Overview
 
